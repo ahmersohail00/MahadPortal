@@ -1,0 +1,12 @@
+D:\GitHub\MahadPortal\MahadPortalApi\bin\Debug\netcoreapp2.0\MahadPortalApi.deps.json
+D:\GitHub\MahadPortal\MahadPortalApi\bin\Debug\netcoreapp2.0\MahadPortalApi.runtimeconfig.json
+D:\GitHub\MahadPortal\MahadPortalApi\bin\Debug\netcoreapp2.0\MahadPortalApi.runtimeconfig.dev.json
+D:\GitHub\MahadPortal\MahadPortalApi\bin\Debug\netcoreapp2.0\MahadPortalApi.dll
+D:\GitHub\MahadPortal\MahadPortalApi\bin\Debug\netcoreapp2.0\MahadPortalApi.pdb
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\MahadPortalApi.csprojResolveAssemblyReference.cache
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\MahadPortalApi.csproj.CoreCompileInputs.cache
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\MahadPortalApi.AssemblyInfoInputs.cache
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\MahadPortalApi.AssemblyInfo.cs
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\MahadPortalApi.dll
+D:\GitHub\MahadPortal\MahadPortalApi\obj\Debug\netcoreapp2.0\MahadPortalApi.pdb

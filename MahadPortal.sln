@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahadPortalApi", "MahadPortalApi\MahadPortalApi.csproj", "{DC53C9DD-22EF-4144-B364-FCE2E25699F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahadPortal", "MahadPortal\MahadPortal.csproj", "{B3ADFC8A-4469-4291-AC10-AB64972B93DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC53C9DD-22EF-4144-B364-FCE2E25699F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC53C9DD-22EF-4144-B364-FCE2E25699F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC53C9DD-22EF-4144-B364-FCE2E25699F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC53C9DD-22EF-4144-B364-FCE2E25699F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3ADFC8A-4469-4291-AC10-AB64972B93DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ADFC8A-4469-4291-AC10-AB64972B93DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ADFC8A-4469-4291-AC10-AB64972B93DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ADFC8A-4469-4291-AC10-AB64972B93DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26A898D-FA34-4028-A591-DE1E7E28C1CA}
+	EndGlobalSection
+EndGlobal
